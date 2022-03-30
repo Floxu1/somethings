@@ -1,7 +1,4 @@
-champ1 = 
-champ 2 = 
-champ1 = 
-champ 2 = 
-champ1 = 
-champ 2 = 
-champ 2 = 
+Talon 1.0.0.0:
+> Combo : Q/W/R (E manual)
+> Harass: Auto W
+> LaneClear and Jungle Clear : W/Q
