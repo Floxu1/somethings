@@ -1,4 +1,5 @@
-Talon 1.0.0.0:
-> Combo : Q/W/R (E manual)
-> Harass: Auto W
-> LaneClear and Jungle Clear : W/Q
+Logs :
+    Talon 1.0.0.0:
+    > Combo : Q/W/R (E manual)
+    > Harass: Auto W
+    > LaneClear and Jungle Clear : W/Q
