@@ -2,3 +2,6 @@ Change logs :
     Varus 1.0.0.0:
     > Combo : Q/E/R (w manual) > E logic / R logic
     > LaneClear and Jungle Clear : E/Q
+    
+    jinx 1.0.0.1:
+    > added logic W and R to the combo 
