@@ -1,4 +1,5 @@
 Change logs :
-    
+    -------------------------------------
     > jinx W predication improved 
     > Ezreal W and Q predication improved 
+    -------------------------------------
