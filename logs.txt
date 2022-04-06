@@ -1,4 +1,4 @@
 Change logs :
-    Evade:
-    > Evade improved (dodging more spells)
     
+    > jinx W predication improved 
+    > Ezreal W and Q predication improved 
