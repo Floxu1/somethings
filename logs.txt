@@ -1,5 +1,7 @@
 Change logs :
     -------------------------------------
-    > Xerath predication improved 
-    > Velkoz predication improved 
+    > Yasuo update : added > flee to minions (your should bind yasuo flee key and internal orbwalker flee key to same keys )    
+    > ashe bug fix
+    > Xerath updated
+    > Velkoz updated
     -------------------------------------
