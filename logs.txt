@@ -1,7 +1,5 @@
 Change logs :
     -------------------------------------
-    > Yasuo update : added > flee to minions (your should bind yasuo flee key and internal orbwalker flee key to same keys )    
-    > ashe bug fix
-    > Xerath updated
-    > Velkoz updated
+    > Added Miss fortun 
+    > Spell Tracker : added an option to set champions HUD to right or left of the screen 
     -------------------------------------
