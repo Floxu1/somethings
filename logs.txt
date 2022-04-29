@@ -1,5 +1,4 @@
 Change logs :
     -------------------------------------
-    > Added Miss fortun 
-    > Spell Tracker : added an option to set champions HUD to right or left of the screen 
+    > Lucian : a bug fixed
     -------------------------------------
