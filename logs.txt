@@ -1,4 +1,4 @@
 Change logs :
     -------------------------------------
-    > Lucian : a bug fixed
+    > Drawings : Added show killable enemies
     -------------------------------------
