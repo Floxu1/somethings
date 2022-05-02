@@ -1,4 +1,4 @@
 Change logs :
     -------------------------------------
-    > Added Wukong : logic Combo(Q/W/E/R) | LaneClear and JungleClear (Q/W/E)
+    > Security update
     -------------------------------------
