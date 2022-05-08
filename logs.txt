@@ -1,6 +1,6 @@
 Change logs :
     -------------------------------------
-    > Added Karma : Combo (Q/W/E/ logic R) || LaneClear and jungleClear (Q /W)
+    > Added Karma : Combo (Q /W /logic E/ logic R) || Anti GapCloser (W/E) || LaneClear and jungleClear (Q /W)
     > Vision Tracker : clone Detection improved
     > Caitlyn and lucian performance improved
     -------------------------------------
