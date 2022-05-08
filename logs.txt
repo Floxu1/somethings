@@ -1,6 +1,6 @@
 Change logs :
     -------------------------------------
-    > Added illaoi : Combo (Q/W/E/ logic R) || LaneClear and jungleClear (Q)
-    > Drawings : Added clone Detection  
-    > bugs fixed
+    > Added Karma : Combo (Q/W/E/ logic R) || LaneClear and jungleClear (Q /W)
+    > Vision Tracker : clone Detection improved
+    > Caitlyn and lucian performance improved
     -------------------------------------
