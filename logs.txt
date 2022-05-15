@@ -1,6 +1,5 @@
 Change logs :
     -------------------------------------
-    > Added Karma : Combo (Q /W /logic E/ logic R) || Anti GapCloser (W/E) || LaneClear and jungleClear (Q /W)
-    > Vision Tracker : clone Detection improved
-    > Caitlyn and lucian performance improved
+    > Diana : Added 2 Combo mode : Normal : Q > E > W/R || Combo 2 : E > R > W/Q
+    > Fixed smite bug on rift herald 
     -------------------------------------
