@@ -1,5 +1,5 @@
 Change logs :
     -------------------------------------
-    > Diana : Added 2 Combo mode : Normal : Q > E > W/R || Combo 2 : E > R > W/Q
-    > Fixed smite bug on rift herald 
+    > Ezreal  : Q and W predication improved
+    > Orianna : Predication Improved 
     -------------------------------------
