@@ -1,5 +1,4 @@
 Change logs :
     -------------------------------------
-    > Ezreal  : Q and W predication improved
-    > Orianna : Predication Improved 
+    > Sett added : Combo (Q/W/E/R killSteal) || Lane and jungle clear (Q/W/E)
     -------------------------------------
