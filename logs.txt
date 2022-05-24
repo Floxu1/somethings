@@ -1,4 +1,5 @@
 Change logs :
     -------------------------------------
-    > Sett added : Combo (Q/W/E/R killSteal) || Lane and jungle clear (Q/W/E)
+    > FiddleSticks added : Combo (Q/W/E/R killSteal / target >= 2) || Lane and jungle clear (Q/W/E)
+    > Corki predication improved
     -------------------------------------
