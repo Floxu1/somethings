@@ -2,4 +2,5 @@ Change logs :
     -------------------------------------
     > FiddleSticks added : Combo (Q/W/E/R killSteal / target >= 2) || Lane and jungle clear (Q/W/E)
     > Corki predication improved
+    > last hit and flee key bug has been fixed
     -------------------------------------
