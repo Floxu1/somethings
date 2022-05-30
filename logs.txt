@@ -1,4 +1,9 @@
 Change logs :
     -------------------------------------
-    > Activator :  Auto using items added (Available items : Potions , Zhonyas ,StopWatch, Quicksilver and Mercurial Scimitar )
+    > Activator : 
+        > Added new items : 
+            - Goredrinker/ IronSpike /StrideBreaker
+            - Youmuu's Ghostblade
+            - Prowler's Claw
+        > Added slider for potion usage with % Health
     -------------------------------------
