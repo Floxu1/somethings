@@ -1,9 +1,4 @@
 Change logs :
     -------------------------------------
-    > Activator : 
-        > Added new items : 
-            - Goredrinker/ IronSpike /StrideBreaker
-            - Youmuu's Ghostblade
-            - Prowler's Claw
-        > Added slider for potion usage with % Health
+    > Drawings : Added an option to show enemy clicks and way points on Screen & minimap
     -------------------------------------
