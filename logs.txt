@@ -1,4 +1,5 @@
 Change logs :
     -------------------------------------
     > Drawings : Added an option to show enemy clicks and way points on Screen & minimap
+    Note : Download new loader from #download-loader channel otherwise this option wont work
     -------------------------------------
