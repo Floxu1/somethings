@@ -1,4 +1,5 @@
 Change logs :
     -------------------------------------
     > Drawings : Zac's E range updated
+    > Ezreal error fixed
     -------------------------------------
