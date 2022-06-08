@@ -1,5 +1,4 @@
 Change logs :
     -------------------------------------
-    > Drawings : Zac's E range updated
-    > Ezreal error fixed
+    > Last Hit got disabled temporary
     -------------------------------------
