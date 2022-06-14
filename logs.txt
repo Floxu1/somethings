@@ -1,4 +1,4 @@
 Change logs :
     -------------------------------------
-    > Last Hit got disabled temporary
+    > performance improved
     -------------------------------------
