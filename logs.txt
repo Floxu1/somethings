@@ -1,4 +1,6 @@
 Change logs :
     -------------------------------------
-    > performance improved
+    > Combo performance is smoother now (no more click spamming on target postion):
+        Updated champions : Ezreal , Yasuo , Yone , 
+        Teemo , Lucian , Pyke , KogMaw , VelKoz
     -------------------------------------
