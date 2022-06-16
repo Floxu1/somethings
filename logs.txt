@@ -1,4 +1,5 @@
 Change logs :
+    > Lucian E bug fixed
     -------------------------------------
     > Combo performance is smoother now (no more click spamming on target postion):
         Updated champions : Ezreal , Yasuo , Yone , 
