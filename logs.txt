@@ -1,7 +1,3 @@
 Change logs :
-    > Lucian E bug fixed
-    -------------------------------------
-    > Combo performance is smoother now (no more click spamming on target postion):
-        Updated champions : Ezreal , Yasuo , Yone , 
-        Teemo , Lucian , Pyke , KogMaw , VelKoz
+    > Combo performance improved on Xerath , Varus , Kalista 
     -------------------------------------
