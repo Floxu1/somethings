@@ -1,3 +1,4 @@
 Change logs :
-    > predication improved
+    > Added : New skill tracker
+    > Evade bug fixed
     -------------------------------------
