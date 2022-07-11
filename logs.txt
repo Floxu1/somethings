@@ -1,9 +1,11 @@
 Change logs :
     > skill tracker : now you can see which target/ally doesn't have enough mana on each spell (shows Blue color)
+    -------------------------------------
     > Added Swain :
        - Combo :Q - W - E - R 
        - Lane Clear and jungle Clear : Q
        - Auto Q 
+    -------------------------------------
     > Added BlitzCrank :
        - Combo :Q - W - E - R 
     -------------------------------------
