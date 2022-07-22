@@ -1,10 +1,4 @@
 Change logs :
-    > Added Nilah :
-       - Combo :Q - W - E - R :
-          - W logic
-          - E logic (uses ally for closing to enemy)
-          - R logic
-       - Harras :
-          - Auto Q 
-       - Lane Clear and jungle Clear : Q
+    > Spell Tracker : added a feature to show enemy R spells when its ready on top of the screen
+    Important : download new data from download #data-update channel
     -------------------------------------
