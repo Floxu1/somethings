@@ -1,4 +1,0 @@
-Change logs :
-    > Spell Tracker : added a feature to show enemy R spells when its ready on top of the screen
-    Important : download new data from download #data-update channel
-    -------------------------------------
